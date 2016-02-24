@@ -3,10 +3,10 @@
 #
 name: MegaHit
 tooltip: |
-	Run megahit for metagenome assembly
+	MEGAHIT - Assemble metagenomic reads
 screenshots: []
 
-icon: kb_logo.png
+icon: megahit-blue.png
 
 #
 # define a set of similar methods that might be useful to the user
