@@ -6,7 +6,7 @@
 	],
 	"contact": "help@kbase.us",
 	"visible": true,
-	"categories": ["active", "assembly", "util"],
+	"categories": ["active", "assembly", "sequence"],
 	"widgets": {
 		"input": null,
 		"output": "no-display"
